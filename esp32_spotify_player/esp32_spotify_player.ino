@@ -8,11 +8,11 @@
 // ==========================================
 // CONFIGURATION
 // ==========================================
-const char* ssid = "YOUR_WIFI_SSID";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "Galaxy A34 5G CE6F";
+const char* password = "apple356";
 
 // The local IP of your Node.js proxy server
-const char* proxy_ip = "192.168.111.1"; 
+const char* proxy_ip = "10.36.129.32"; 
 const int proxy_port = 8888;
 
 // OLED Setup (I2C)
